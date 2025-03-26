@@ -71,7 +71,7 @@ Comprehensive set of shadcn/ui components including:
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/DurgaPrashad/Autoreply-ai)>
 ```
 
 2. Install dependencies
