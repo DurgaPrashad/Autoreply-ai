@@ -122,8 +122,4 @@ Modify `integration-settings.tsx` to configure:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-[Specify your license, e.g., MIT]
 
-## Contact
-[Your contact information or support email]
